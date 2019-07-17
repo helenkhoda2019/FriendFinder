@@ -1,15 +1,16 @@
 #friend-finder-node-and-express-server
- Friend Finder app demonstrating Node and Express with jQuery. Overall purpose is a web app designed to help find a compatible friend. Set up web servers with Node.js using Express.
+  Overall purpose is a web app designed to help find a compatible friend. Set up web servers with Node.js using Express.
 
  ##HomePage
 
-This will showup on localhost/3000 after you run node server.js.
+This page showup on localhost/3000 after you run node server.js.
 
-![Homepage](https://github.com/helenkhoda2019/lirihw/blob/master/concert.png)
+![Homepage](https://github.com/helenkhoda2019/FriendFinder/blob/master/first.png)
 
 
  ##New Friend Modal
-
+After survey is done, you get match with a friend who had same similarity with you base on the questions you have responded on your survey.
+![Questions](https://github.com/helenkhoda2019/FriendFinder/blob/master/second.png)
  
 ###Technologies Used
 JavaScript
