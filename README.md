@@ -12,10 +12,3 @@ jQuery
 AJAX
 Node.js
 Express
-####The following npm modules were used
-express
-body-parser
-path
-####Getting Started
-Clone or fork and run using server.js in the command line.
-Use localhost:4000
